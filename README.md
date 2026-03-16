@@ -25,7 +25,7 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
+- [x] Describe the game's purpose.
   - The purpose of the game is to have a user guess a number within fixed ranges based on the difficulty setting. The player gets hints to help them narrow down the correct numbers.
 - [x] Detail which bugs you found.
   1. **Swapped hint messages** — Guessing too high displayed "Go HIGHER!" and guessing too low displayed "Go LOWER!", the opposite of what they should say.
